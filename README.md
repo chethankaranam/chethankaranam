@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
 
 ## Talking about Personal Stuff:
-- 🔭 I’m currently  a student at Madanapalle Institute of Technology.
+- 🔭 I’m currently  a student at Madanapalle Institute of Technology & Science.
 - 🌱 I’m currently a student co-ordinator for Mits Social Responsibility Club.
 - 👯 I’m looking to collaborate on Data Science & Web Development (Backend).
 - 🤔 I’m looking for help for an Internship.
