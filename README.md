@@ -23,4 +23,4 @@
 <code><img height="40" src="https://png.pngitem.com/pimgs/s/168-1680234_nodejs-logo-svg-hd-png-download.png"></code>
 <code><img height="40" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"></code>
