@@ -20,7 +20,7 @@
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://png.pngitem.com/pimgs/s/168-1680234_nodejs-logo-svg-hd-png-download.png"></code>
+<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"></code>
 <code><img height="40" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="40" width="40" src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png"></code>
