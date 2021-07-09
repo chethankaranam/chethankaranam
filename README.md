@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help for an Internship.
 - 📫 How to reach me: <a href="mailto:chethansaikaranam@gmail.com">chethansaikaranam@gmail.com</a>
 - 🟦  <a href="https://www.linkedin.com/in/chethansaikaranam/">LINKEDIN</a>
-<!-- - 📝[Resume](link-here) -->
+- 📝[My PortFolio](https://chethankaranam.github.io/PortFolio/)
 
 ## Languages and Tools:
 
